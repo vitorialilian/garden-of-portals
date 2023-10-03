@@ -19,7 +19,7 @@ O Movimento do Personagem foi feito com a função **keyPressed()**, que é cham
 
 As tecnologias utilizadas foram, a biblioteca de javascript p5.js,e HTML e CSS que já vinham predefinidos pela própria biblioteca. 
 
-# O site utilizado
+# O site utilizado para criar
  <center>
  
  ![Site p5.js](imagens-readme/Captura%20de%20tela%202023-10-02%20185604.png)
@@ -46,7 +46,7 @@ As tecnologias utilizadas foram, a biblioteca de javascript p5.js,e HTML e CSS q
  
  </center>
 
- Link do jogo
+ # Link do jogo
  https://vitorialilian.github.io/rick-e-morty-em-busca-do-portal/
 
 
