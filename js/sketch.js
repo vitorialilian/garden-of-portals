@@ -76,8 +76,6 @@ function draw() {
 
   if (andarX === 0 && andarY === 0) {
 
-
-
     fill(0, 0, 0)
     rect(163, 160, 250, 250)
 
@@ -98,13 +96,6 @@ function draw() {
 
     image(portal, 348, 348, 64, 64)
     image(turma2, 170, 340, 150, 75)
-
-    //     botao2 = createButton('Iniciar Jogo');
-    //     botao2.mousePressed(iniciar)
-    //     botao2.style('background-color', cor)
-    //     botao2.position(250, 350)
-
-    //     noLoop()
   }
 
 
@@ -134,12 +125,6 @@ function draw() {
     noLoop()
   }
 }
-
-// function iniciar() {
-//   botao2.remove()
-//   loop()
-
-// }
 
 function reset() {
   andarX = 0
