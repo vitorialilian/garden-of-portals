@@ -1,5 +1,7 @@
 # Rick e Morty em busca do portal
 
+![Rick e Morty olhando de um lado para o outro](imagens-readme/118789.gif)
+
 É um projeto de um jogo simples criado com a biblioteca javascript p5.js, em uma das aulas iniciais do curso de Desenvolvimento de Software com foco em back-end da Cubos Academy, como uma forma mais descontraída do professor Guido Cerqueira nos mostrar como era programar. 
 
 Escolhi como tema para meu jogo a animação Rick and Morty, que é uma das minhas favoritas. O objetivo é ajudar eles a encontrar o portal correto para se encontrarem com seus amigos. 
@@ -29,4 +31,4 @@ As tecnologias utilizadas foram, a biblioteca de javascript p5.js,e HTML e CSS q
  https://vitorialilian.github.io/rick-e-morty-em-busca-do-portal/
 
 
-
+![Rick e Morty batendo as mãos](imagens-readme/rick-and-morty-rick.gif)
